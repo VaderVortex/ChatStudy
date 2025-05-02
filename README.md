@@ -115,6 +115,10 @@ server
     client.close()
     server.close()
 
+## OUTPUT
+![image](https://github.com/user-attachments/assets/f98a1632-d106-48de-a94b-ee6b9c896bed)
+
+
 ## Result:
 
 Thus the study on Client Server Chat Applications has been performed
