@@ -1,11 +1,14 @@
-# Ex. No:1b 			Study of Client Server Chat Applications
+# Ex. No: 1(b)—Study of Client Server Chat Applications
 # Name: Sanjeev Kumar
 # Reg.No.: 212224040290
+
 ## Aim: 
 To perform a study on Client Server Chat Applications
+
 ## Introduction:
 Client-server chat applications are a category of networked software that enables real-time communication between users over a network. This study explores the key components, architecture, and considerations in the development of client-server chat applications, highlighting their significance and common implementation practices.
 Client-server chat applications are software systems that enable real-time communication between users over a network. These applications follow a client-server model, where one component (the server) manages connections and facilitates communication, while the other component (the client) interacts with the server to send and receive messages. Below are the fundamental aspects and components involved in the basics of client-server chat applications:
+
 ## 1. Client-Server Model:
 •	Server:
 •	The server is a central component that listens for incoming connections from clients.
@@ -41,6 +44,7 @@ Client-server chat applications are software systems that enable real-time commu
 •	It ensures that messages are delivered to the intended recipients.
 •	Message routing may involve maintaining a list of connected users and their associated sockets.
 
+
 ## Architecture:
 ## Client-Server Model:
 Client-server chat applications typically follow the client-server model, where one entity acts as the server, managing connections and facilitating communication, and one or more entities act as clients, initiating communication with the server.
@@ -49,6 +53,7 @@ Client-server chat applications typically follow the client-server model, where 
 The choice of communication protocol is crucial. Many chat applications use TCP (Transmission Control Protocol) for reliable, connection-oriented communication to ensure the ordered and error-free exchange of messages.
 User Authentication:
 User authentication mechanisms are essential to ensure secure and authorized access to the chat system. This can involve username-password authentication or more advanced methods like tokens.
+
 ## Components of Client-Server Chat Applications:
 ## Server-Side Components:
 
